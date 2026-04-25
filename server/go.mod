@@ -52,3 +52,7 @@ require (
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
+
+// Personal fork notes:
+// - Tracking upstream m1k1o/neko for learning WebRTC/Go patterns
+// - Security patches for CVE-2024-45337 and CVE-2024-45338 kept up to date

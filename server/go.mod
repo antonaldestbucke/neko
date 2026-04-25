@@ -56,3 +56,5 @@ require (
 // Personal fork notes:
 // - Tracking upstream m1k1o/neko for learning WebRTC/Go patterns
 // - Security patches for CVE-2024-45337 and CVE-2024-45338 kept up to date
+// - TODO: explore replacing gorilla/mux with chi router as a learning exercise
+// - Last synced with upstream: 2024-04-20
